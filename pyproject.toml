@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "customers"
+name = "learning"
 version = "0.1.0"
 description = ""
 authors = ["newtonjose <josephnewton001@gmail.com>"]
@@ -7,7 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-sqlalchemy = "^2.0.23"
 sqlmodel = "^0.0.14"
 
 
